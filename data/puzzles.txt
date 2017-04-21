@@ -1,0 +1,310 @@
+####
+#. #
+#@ #
+#$ #
+#  #
+####
+
+rddlUU
+
+  ####
+###  #
+# $  #
+# #. #
+#@  ##
+#####
+
+uuRlddrruruulD
+
+####
+#@.#
+##$#
+#  #
+#  #
+#  #
+####
+
+rDDlddrUUU
+
+ #####
+##  .#
+# @  #
+# $ ##
+#  ##
+####
+
+lddrUluRdrUluR
+
+####
+#  ###
+# @  #
+#.$$.#
+#    #
+######
+
+lddrUdrruulLulDrdR
+
+ ####
+##  #
+# $ #
+#.#.#
+# $ #
+# @ #
+#####
+
+luuuRurDlldddrruLdlU
+
+   ####
+####  #
+# $@  #
+#  .# ##
+## ##  #
+#      #
+#  #####
+#  #
+####
+
+dlluRRRurDDDrdLLLrruuulllddDlddrUUUdrrruuulllldR
+
+####
+#  ###
+#    #
+#    #
+### ##
+  #$ #
+  #.@#
+  ####
+
+lUUUruLdlluurDldRurDDD
+
+  #####
+###   #
+# $ # ##
+# #  . #
+#    # #
+## #   #
+ #@  ###
+ #####
+
+uuluuRlddrrruruullDDullddrRlddrruUluR
+
+  #####
+###   #
+# $ # ##
+# #  . #
+#    # #
+##$#.  #
+ #@  ###
+ #####
+
+rruullluuRlddrrruruullDDullddrRurrrddlldllUdrruUluullddRRuRD
+
+  #####
+###   #
+# $ # ##
+# #  . #
+# .  # #
+##$#.$ #
+ #@  ###
+ #####
+
+rruullluuRlddrrrddllUdrruuuruullDllddRRlddrruUllluurrurrddrddLruuluulldDRdL
+
+    ####
+#####  #
+#   $  #
+#  .#  #
+## ## ##
+#      #
+# @#   #
+#  #####
+####
+
+uuuruRldlddrrruuruulDDDuulldlddrrdrruLLLrruuulldldDlddrUUUdrrruuulllldR
+
+    ####
+#####  #
+#   $  #
+# *.#  #
+## ## ##
+#      #
+# @#   #
+#  #####
+####
+
+uuUruRldlddrrruuruulDDDuulldlluRRRldlddrrdrruLLLrruuruulDDDuulldldDlddrUUUdrrdrruLLLrruuulllldRdDlddrUUU
+
+    ####
+#####  #
+#   *  #
+# *.#  #
+## ## ##
+# $    #
+# @#   #
+#  #####
+####
+
+luRuUruRldlddRRdrruLLLrruuruulDDDuulldlluRRRldldDlddrUUUdrrdrruLLLrruuruulDlllldRdDlddrUUUdrrruUruL
+
+ #####
+ #   ##
+## #$ ##
+# $    #
+#. .#  #
+### @ ##
+  # # #
+  #   #
+  #####
+
+lulluRRRlluurrDrDLLddrrUruLLuulldDldRuuurrddLruulldDrDLrurrddddlluU
+
+ #####
+ #   ##
+##.#$ ##
+# $    #
+#. .#$ #
+### @ ##
+  # # #
+  #   #
+  #####
+
+luurrDDllulluRRRlluurrDrDLLddrrUruLLuulldDldRuuurrddLruulldDrrrddllddrrUUUruLLLDLUrrrddddlluU
+
+ #####
+ #   #
+##$# ###
+#   $@ #
+# #  # #
+# #. . #
+#   ####
+#####
+
+rddllluuRuullDurrddddrruuLrddllldlluuuRuurrdDDurrddlLuuuullddRluurrdDDlulldddrrURuulD
+
+ #####
+ #   #
+##$# ###
+#  .$@ #
+# #  # #
+# #..$ #
+#   ####
+#####
+
+rddLLuluRllldddrrUruuuullDurrddddrruuLrddllldlluuuRuurrdDDuuullddRlldddrruUddlluuuruurrdDrrddlLrruullD
+
+ #####
+##   ###
+# . .  #
+# # ## ##
+#    $$@#
+### #   #
+  #   ###
+  #####
+
+dlULLrddlluUUdlluururrdrrDullulldRRlddrrdrruLLLrddlluUUdlluururrdLddrrruuL
+
+ #####
+##   ###
+# . . .#
+# # ## ##
+#    $$@#
+### # $ #
+  #   ###
+  #####
+
+dLULLLddrrUruLddlluuuurrrDulllddddrruuLrddlluUUdrrdrruLuullulldlddRluururrdrrdddldlluUlluurRRlllddrrUdlluururrdLddddrruruuuLrdddldlluurRdrUU
+
+    ####
+ ####  #
+## $   #
+#  # #$#
+#.@.   ##
+## # #  #
+ #      #
+ #  #####
+ ####
+
+rruurrDDDrdLLLuulluuRRddddLdlUUdrruuuulldldRRRuuRurDDDDrdLLLLdlUUdrruulLrrddrruuLL
+
+    ####
+ ####  #
+## $   #
+#  # #$#
+#.@..  ##
+## # #  #
+ #   $  #
+ #  #####
+ ####
+
+rrrrddLLuuuurrDDlllluuRRddddLdlUUdrruurrDrdLLLuuuulldldRRRddLdlUUdrruuuulldldRRluurrRurDDDDrdLLLLdlUUdrruUlLrrddrruuLLrruullD
+
+   ####
+####  #
+# $   #
+#  .# ##
+## #.  #
+# @  $ #
+#   ####
+#####
+
+uuluRRdlddrrurrdLLLdlUUUruRurDDulldlddrrrruLdllluuluRRRurDDDrdLLLdlUUdrrruuulllldR
+
+   ####
+####  #
+# $ $ #
+#  .# ##
+## #.  #
+# @  $ #
+#.  ####
+#####
+
+rrurrdLLLdlluRuuruRurDDDldLrurrdLLruuulldldDuuluRRRurDDDldLdLUUdrruruulllldRddrrurrdLLLdlUUUluRRRurDDullldddrrrruL
+
+    #####
+   ##   ##
+  ## .#  #
+ ##   @  #
+##    #  #
+#  $ #####
+# * ##
+#  ##
+####
+
+ldllldlddrUrUdlluRuRlddrUrUdlluRuRRdLruuurrddLruulldlddrUllDrdLulD
+
+    #####
+   ##   ##
+  ## .#  #
+ ##   @  #
+##  * #  #
+#  $ #####
+# * ##
+#  ##
+####
+
+llldldlddrUrUrUdldlluRuRuRRRllldlddrUrUdlluRuRRdLulDrdLulDrruruuurrdrddlULLulDrdLruuurrDrdLLruulldlddrUdldlluR
+
+####
+#  ####
+#     #
+#     #
+### ###
+# $$  ##
+# . .@ #
+####   #
+   #####
+
+llUUUruLddddlluRdrUUUlluurDldRuRDDDldRRluuurruLLdlluurDldRurDDDrdLrdrruL
+
+####
+#  ####
+#     #
+#     #
+### ###
+# $$$ ##
+# ...@ #
+####   #
+   #####
+
+llUUUruLddddlluRdrUUUlluurDldRuRDrruLLdDDldRRdrruLuLLdlluRdrRlUUUlluurDldRuRDDDrdLuuurruLLdlluurDldRurDDDrddrruL
+

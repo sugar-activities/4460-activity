@@ -1,0 +1,8 @@
+[Activity]
+name = Sokoban
+activity_version = 23
+host_version = 1
+bundle_id = mulawa.Sokoban
+icon = activity
+show_launcher = yes
+exec = sugar-activity activity.PeterActivity
